@@ -1,4 +1,7 @@
 
+![Uploading image.png…]()
+
+
 # 📊 Executive Revenue & Profit Analytics Dashboard
 
 **Excel BI Project | Power Query • Power Pivot • DAX • Data Modeling**
